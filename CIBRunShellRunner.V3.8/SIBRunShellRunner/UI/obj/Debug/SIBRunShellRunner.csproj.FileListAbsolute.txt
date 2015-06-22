@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\bin\Debug\UI.exe.config
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\bin\Debug\UI.exe
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\bin\Debug\UI.pdb
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\Views\MainWindow.baml
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\UI.g.resources
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\SIBRunShellRunner.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\UI.exe
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\UI.pdb
+C:\Users\Home\Desktop\work\Task2\CIBRunShellRunner.V3.5\SIBRunShellRunner\UI\obj\Debug\SIBRunShellRunner.csprojResolveAssemblyReference.cache
